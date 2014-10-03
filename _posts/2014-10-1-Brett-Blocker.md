@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Brett Blocker - The Writing Process Blog Tour
 ---
 
