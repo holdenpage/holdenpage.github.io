@@ -1,3 +1,8 @@
+---
+layout: post
+title: Brett Blocker: The Writing Process Blog Tour
+---
+
 Ed. Note: Brett Blocker is a writer of smut, and does not currently have
 a home on the Internet. This post is in response to my own piece on the
 writing process. You should follow Brett on Twitter, and read his first
