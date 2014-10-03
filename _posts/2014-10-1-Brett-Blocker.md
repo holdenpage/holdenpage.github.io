@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brett Blocker: The Writing Process Blog Tour
+title: Brett Blocker - The Writing Process Blog Tour
 ---
 
 Ed. Note: Brett Blocker is a writer of smut, and does not currently have
