@@ -43,7 +43,7 @@ unless you’re touching kids at a playground, they are not in a position
 to judge. I rely on this principle to get away with writing the kind of
 smut I do.
 
-### -> Why Do You Write What You Do? <-
+<center> ### Why Do You Write What You Do? </center>
 
 I actually hate to write, it just feels
 good after the fact. Really, really good.
