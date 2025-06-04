@@ -2,8 +2,6 @@ backend:
   name: github
   repo: holdenpage/holdenpage.github.io
   branch: main
-  site_domain: holdenpage.github.io
-  base_url: https://holdenpage.github.io
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
@@ -17,14 +15,5 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "pages"
-    label: "Pages"
-    folder: "pages"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       
