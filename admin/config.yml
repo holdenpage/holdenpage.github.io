@@ -3,6 +3,8 @@ backend:
   repo: holdenpage/holdenpage.github.io
   branch: main
 
+local_backend: true
+
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
 
