@@ -4,16 +4,14 @@ email: your-email@example.com
 description: >-
   Write an awesome description for your new site here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://holdenpage.github.io" # the base hostname & protocol for your site
+url: "https://holdenpage.github.io" # Your GitHub Pages URL
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Collections
 collections:
@@ -31,4 +29,3 @@ exclude:
   - .sass-cache
   - .jekyll-cache
   - .jekyll-metadata
-  - admin
