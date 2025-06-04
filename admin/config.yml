@@ -2,8 +2,8 @@ backend:
   name: github
   repo: holdenpage/holdenpage.github.io
   branch: main
-
-local_backend: true
+  auth_scope: repo
+  app_id: Ov23liOQoMQOtN5SDkGl
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
